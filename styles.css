@@ -1,0 +1,54 @@
+body {
+  background-image: url(img/informaticafondo.jpg);
+  background-size: cover;
+}
+
+h1 { 
+ color: white;
+ border: solid 2px white;
+ border-radius: 100px;
+ padding: 50px 100px 50px 100px;
+ margin: 75px 500px 0 500px;
+ text-align: center;
+ background-color: darkcyan;
+}
+
+h3 {
+ color: white;
+ font-style: italic;
+ font-weight: bold;
+ margin: 10px 0 50px 660px;
+ text-decoration: underline;
+ font-size: 25px;
+}
+
+button {
+  width: 100px;
+  height: 100px;
+  text-align: center;
+  margin: 10px 25px 50px 0;
+  border-radius: 10px 10px 10px 10px;
+}
+
+#ubicar {
+ margin: 0 25px 0 470px;
+}
+
+#mitad {
+ margin: 50px 0 0 380px;
+}
+
+p{
+  margin: 20px 450px 10px 450px;
+  border-radius: 10px 10px 10px 10px;
+  background-color: rgb(191, 247, 114);
+  font-size: 20px;
+  padding: 2px 0 2px 0;
+  text-align: center;
+}
+
+div{
+  background-color: wheat;
+  border-radius: 100px 100px 100px 100px;
+  margin: 0 100px 0 100px;
+}
